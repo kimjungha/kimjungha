@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=03C863&width=435&lines=BackEnd+Developer+%EA%B9%80%EC%A0%95%ED%95%98%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+### ⏳ WakaTime Total Coding Hours  
 
 ### 📊 WakaTime Stats  
 <!--START_SECTION:waka-->
