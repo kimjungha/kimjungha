@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2025 - To: 25 March 2025
+From: 19 March 2025 - To: 26 March 2025
 
-Java           3 hrs 25 mins   █████████████░░░░░░░░░░░░   51.64 %
-TypeScript     1 hr 35 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-HTTP Request   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Markdown       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-YAML           19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Java             4 hrs 15 mins   ████████████▓░░░░░░░░░░░░   51.30 %
+TypeScript       2 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+HTTP Request     40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+JavaScript       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+YAML             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
